@@ -1,0 +1,21 @@
+[
+{
+  "modid": "UltraModern",
+  "name": "Ultra Modern Blocks",
+  "description": "Improve Minecraft with these stylish new blocks!!",
+  "version": "1.0",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "TheNewmanator15",
+    ""
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
